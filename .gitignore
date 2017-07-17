@@ -1,0 +1,42 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+#for java
+*.class
+
+# for intellij
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# package files
+*.jar
+*.war
+*.ear
+
+# temporary file
+target/
+out/
+build/
+
+# older plugin install locations
+/plugins
+/web-app/plugins
+/web-app/WEB-INF/classes
+
+# project release
+/*.war
+
+#log
+logs/
+*.log
+
+
+
